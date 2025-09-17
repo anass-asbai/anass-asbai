@@ -23,9 +23,3 @@ I strive to combine creativity with technical skills to deliver high-quality sol
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square)
 ![Spring Boot](https://img.shields.io/badge/-SpringBoot-6DB33F?logo=spring&logoColor=white&style=flat-square)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white&style=flat-square)
-
-## GitHub Stats
-![Anass's GitHub stats](https://github-readme-stats.vercel.app/api?username=anass-asbai&show_icons=true&theme=radical)
-
-## Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anass-asbai&layout=compact&theme=radical)
