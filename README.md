@@ -12,15 +12,6 @@ I'm a **Full Stack Developer** passionate about building scalable, efficient, an
 ## Motivation
 I strive to combine creativity with technical skills to deliver high-quality solutions. My goal is to continuously improve and contribute to impactful projects.
 
-## Projects
-- 🚀 **Project Name** – short description [GitHub Repo](#)  
-- 🚀 **Project Name** – short description [GitHub Repo](#)  
-
-## Contact
-- 📫 Email: your-email@example.com  
-- 💼 LinkedIn: [your-linkedin](#)  
-- 🌐 Portfolio: [your-portfolio](#)  
-
 ## Skills Badges
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
